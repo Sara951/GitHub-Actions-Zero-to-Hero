@@ -1,7 +1,7 @@
 # app.py
 # This is a test commit sara
 def add(a, b):
-    return a + b
+    return a + b + b
 
 def test_add():
     assert add(1, 2) == 3
